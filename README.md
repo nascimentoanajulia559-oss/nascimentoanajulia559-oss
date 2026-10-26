@@ -24,5 +24,8 @@
 <a href="https://instagram.com/julia.messiass"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <p align="center">
+  <img alt="Pac-Man" src="https://raw.githubusercontent.com/nascimentoanajulia559-oss/nascimentoanajulia559-oss/output/pacman-contribution-graph.svg">
+</p>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:EC4899,100:7C3AED&section=footer" />
 </p>
